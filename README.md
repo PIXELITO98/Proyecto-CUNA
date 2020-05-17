@@ -1,6 +1,5 @@
 # Proyecto-CUNA
-En este repositorio se tiene una carpeta de audios, con 3 subcarpetas, una carpeta con la palabra apagar,
-otra con diferentes audios de bebes llorando y la ultima con audios de diferentes palabras aleatorias, cada subcarpeta con 15 audios.
+Este repositorio contiene una carpeta de audios con 3 subcarpetas, una carpeta con la palabra apagar, otra con diferentes audios de bebes llorando y la ultima con audios de diferentes palabras aleatorias, cada subcarpeta con 15 audios.
 
 Cada audio dura 5 segundos, la palabra apagar esta grabada con mi voz, los audios de bebe llorando tenemos que cada audio es diferente y
 de las palabras aleatorias tenemos también que son grabadas con mi voz, tanto estas palabras como los audios de apagar son dichos de una
