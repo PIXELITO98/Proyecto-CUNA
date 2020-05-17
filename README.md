@@ -8,18 +8,33 @@ manera un tanto lenta y pausada, tenemos los nombres desde Palabra1 hasta Palabr
 duración antes mencionada que es la misma para todos los archivos.
 
 Las palabras que se tiene en cada audio de la subcarpeta Palabras aleatorias son las siguientes:
+
 Palabra1 => Apagado
+
 Palabra2 => Encendido
+
 Palabra3 => Desactivado
+
 Palabra4 => Activado
+
 Palabra5 => Encender
+
 Palabra6 => Desactivar
+
 Palabra7 => Prender
+
 Palabra8 => Finalizado
+
 Palabra9 => Activar
+
 Palabra10 => Prendido
+
 Palabra11 => Girar
+
 Palabra12 => Sensor
+
 Palabra13 => Funciona
+
 Palabra14 => Silencio/ronquidos
+
 Palabra15 => Murmullos/ruido
