@@ -38,5 +38,3 @@ Palabra14 => Silencio/ronquidos
 
 Palabra15 => Murmullos/ruido
 
-
-solicito acceso para escribir en este repositorio
